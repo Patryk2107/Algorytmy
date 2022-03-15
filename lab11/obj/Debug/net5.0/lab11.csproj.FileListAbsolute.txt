@@ -1,0 +1,16 @@
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\bin\Debug\net5.0\lab11.exe
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\bin\Debug\net5.0\lab11.deps.json
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\bin\Debug\net5.0\lab11.runtimeconfig.json
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\bin\Debug\net5.0\lab11.runtimeconfig.dev.json
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\bin\Debug\net5.0\lab11.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\bin\Debug\net5.0\ref\lab11.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\bin\Debug\net5.0\lab11.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.csproj.CoreCompileInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\ref\lab11.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab11\lab11\obj\Debug\net5.0\lab11.genruntimeconfig.cache
