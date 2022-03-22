@@ -1,0 +1,16 @@
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\bin\Debug\net5.0\lab4.exe
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\bin\Debug\net5.0\lab4.deps.json
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.json
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\bin\Debug\net5.0\lab4.runtimeconfig.dev.json
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\bin\Debug\net5.0\lab4.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\bin\Debug\net5.0\ref\lab4.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\bin\Debug\net5.0\lab4.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.csproj.CoreCompileInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\ref\lab4.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab4\lab4\obj\Debug\net5.0\lab4.genruntimeconfig.cache
