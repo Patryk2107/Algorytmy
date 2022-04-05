@@ -2,6 +2,82 @@
 
 namespace lab6
 {
+    class PriorityQueue
+    {
+        public readonly static int Capacity = 5;
+        public int[] _arr = new int[Capacity];
+        public int last = -1;
+
+        private int leftChild(int parent)
+        {
+            return 2 * parent + 1;
+        }
+        private int rightChild(int parent)
+        {
+            return 2 * parent + 2;
+        }
+        private int Parent(int child)
+        {
+            return (child - 1) / 2;
+        }
+
+        public bool Insert(int value)
+        {
+            if(Count() == Capacity)
+            {
+                return false;
+            }
+            last++;
+            _arr[last] = value;
+
+            RebuildUp(last);
+            return true;
+        }
+
+        private void RebuildUp(int node)
+        {
+            while (node>0) {
+                int parent = Parent(node);
+                if (_arr[node] > _arr[parent])
+                {
+                    int temp = _arr[node];
+                    _arr[node] = _arr[parent];
+                    _arr[parent] = temp;
+
+                    node = parent;
+                }
+                else
+                {
+                    break;
+                }
+            }
+        }
+        public int Remove()
+        {
+            int removed = _arr[0];
+            _arr[0] = _arr[last - 1];
+            Rebuilddown();
+        }
+
+        private void Rebuilddown()
+        {
+            int node = 0;
+            while(node >= last)
+            {
+                int leftChildValue = _arr[leftChild(node)];
+                int rightChildValue = _arr[rightChild(node)];
+                if (_arr[node] > leftChildValue && _arr[node] > rightChildValue)
+                {
+                    break;
+                }
+
+            }
+        }
+        public int Count()
+        {
+            return last + 1;
+        }
+    }
     class IntQueue
     {
         public readonly static int Capacity = 10;
@@ -67,8 +143,20 @@ namespace lab6
             {
                 Console.WriteLine("OK");
             }
+            Console.WriteLine(queue.Count());
 
+            PriorityQueue priorityQueue = new PriorityQueue();
+            priorityQueue.Insert(7);
+            priorityQueue.Insert(2);
+            priorityQueue.Insert(9);
+            priorityQueue.Insert(3);
+            Console.WriteLine("heap");
+            foreach(int item in priorityQueue._arr)
+            {
+                Console.WriteLine(item);
+            }
         }
+ 
         
     }
 }
