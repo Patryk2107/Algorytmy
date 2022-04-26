@@ -70,7 +70,7 @@ namespace lab6
                 {
                     break;
                 }
-
+ 
             }
         }
         public int Count()

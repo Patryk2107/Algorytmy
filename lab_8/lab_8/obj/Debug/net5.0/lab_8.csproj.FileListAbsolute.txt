@@ -1,0 +1,16 @@
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\bin\Debug\net5.0\lab_8.exe
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\bin\Debug\net5.0\lab_8.deps.json
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\bin\Debug\net5.0\lab_8.runtimeconfig.json
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\bin\Debug\net5.0\lab_8.runtimeconfig.dev.json
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\bin\Debug\net5.0\lab_8.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\bin\Debug\net5.0\ref\lab_8.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\bin\Debug\net5.0\lab_8.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.csproj.CoreCompileInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\ref\lab_8.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab_8\lab_8\obj\Debug\net5.0\lab_8.genruntimeconfig.cache
