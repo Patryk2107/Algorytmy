@@ -1,0 +1,16 @@
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\bin\Debug\net5.0\algorytmy - 17.05.exe
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\bin\Debug\net5.0\algorytmy - 17.05.deps.json
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\bin\Debug\net5.0\algorytmy - 17.05.runtimeconfig.json
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\bin\Debug\net5.0\algorytmy - 17.05.runtimeconfig.dev.json
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\bin\Debug\net5.0\algorytmy - 17.05.dll
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\bin\Debug\net5.0\ref\algorytmy - 17.05.dll
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\bin\Debug\net5.0\algorytmy - 17.05.pdb
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.csproj.CoreCompileInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.dll
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\ref\algorytmy - 17.05.dll
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.pdb
+D:\Users\Patryk.Adamczyk\source\repos\algorytmy - 17.05\algorytmy - 17.05\obj\Debug\net5.0\algorytmy - 17.05.genruntimeconfig.cache
