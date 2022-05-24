@@ -1,0 +1,16 @@
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\bin\Debug\net5.0\Lab_11_Grafy.exe
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\bin\Debug\net5.0\Lab_11_Grafy.deps.json
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\bin\Debug\net5.0\Lab_11_Grafy.runtimeconfig.json
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\bin\Debug\net5.0\Lab_11_Grafy.runtimeconfig.dev.json
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\bin\Debug\net5.0\Lab_11_Grafy.dll
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\bin\Debug\net5.0\ref\Lab_11_Grafy.dll
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\bin\Debug\net5.0\Lab_11_Grafy.pdb
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.csproj.CoreCompileInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.dll
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\ref\Lab_11_Grafy.dll
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.pdb
+D:\Users\Patryk.Adamczyk\source\repos\Lab_11_Grafy\Lab_11_Grafy\obj\Debug\net5.0\Lab_11_Grafy.genruntimeconfig.cache

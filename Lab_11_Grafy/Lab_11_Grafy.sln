@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_11_Grafy", "Lab_11_Grafy\Lab_11_Grafy.csproj", "{914DD2E3-DD73-47AC-8402-9AC53A1EF425}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab_11_Lista sąsiedztw", "Lab_11_Lista sąsiedztw\Lab_11_Lista sąsiedztw.csproj", "{45937B2B-00D6-4260-BB97-2F38118948DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{914DD2E3-DD73-47AC-8402-9AC53A1EF425}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{914DD2E3-DD73-47AC-8402-9AC53A1EF425}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{914DD2E3-DD73-47AC-8402-9AC53A1EF425}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{914DD2E3-DD73-47AC-8402-9AC53A1EF425}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45937B2B-00D6-4260-BB97-2F38118948DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45937B2B-00D6-4260-BB97-2F38118948DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45937B2B-00D6-4260-BB97-2F38118948DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45937B2B-00D6-4260-BB97-2F38118948DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0742608D-A7F2-4916-85C7-0666F15CE7C6}
+	EndGlobalSection
+EndGlobal
