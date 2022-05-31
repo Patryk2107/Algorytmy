@@ -1,0 +1,16 @@
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\bin\Debug\net5.0\lab12.exe
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\bin\Debug\net5.0\lab12.deps.json
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\bin\Debug\net5.0\lab12.runtimeconfig.json
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\bin\Debug\net5.0\lab12.runtimeconfig.dev.json
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\bin\Debug\net5.0\lab12.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\bin\Debug\net5.0\ref\lab12.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\bin\Debug\net5.0\lab12.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.csproj.AssemblyReference.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.AssemblyInfoInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.AssemblyInfo.cs
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.csproj.CoreCompileInputs.cache
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\ref\lab12.dll
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.pdb
+D:\Users\Patryk.Adamczyk\source\repos\lab12\lab12\obj\Debug\net5.0\lab12.genruntimeconfig.cache
